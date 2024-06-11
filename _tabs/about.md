@@ -14,7 +14,7 @@ order: 4
 ###
 
 <div align="center">
-  <img height="50" src="https://external-media.spacehey.net/media/sxRQnGBV5uIFcWJIsDf-HBaktQ1n-bvK4Xuw1emc8SH0=/https://media.tenor.com/cs7Z40PBEHgAAAAC/divider.gif"  />
+  <img height="50" src="https://external-media.spacehey.net/media/sxRQnGBV5uIFcWJIsDf-HBaktQ1n-bvK4Xuw1emc8SH0=/https://media.tenor.com/cs7Z40PBEHgAAAAC/divider.gif"  alt="Decorative divider" />
 </div>
 
 ###
@@ -28,5 +28,5 @@ order: 4
 ###
 
 <div align="center">
-  <img height="50" src="https://external-media.spacehey.net/media/sxRQnGBV5uIFcWJIsDf-HBaktQ1n-bvK4Xuw1emc8SH0=/https://media.tenor.com/cs7Z40PBEHgAAAAC/divider.gif"  />
+  <img height="50" src="https://external-media.spacehey.net/media/sxRQnGBV5uIFcWJIsDf-HBaktQ1n-bvK4Xuw1emc8SH0=/https://media.tenor.com/cs7Z40PBEHgAAAAC/divider.gif"  alt="Decorative divider" />
 </div>
